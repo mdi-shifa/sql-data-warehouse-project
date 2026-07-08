@@ -1,7 +1,14 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-Pipeline-blue?style=for-the-badge)
-![Data Warehouse](https://img.shields.io/badge/Data-Warehouse-success?style=for-the-badge)
+![ETL Pipeline](https://img.shields.io/badge/ETL-Pipeline-blue?style=for-the-badge)
+![Data Warehouse](https://img.shields.io/badge/Data-Warehouse-0066CC?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Data-Analytics-4CAF50?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
 ![Star Schema](https://img.shields.io/badge/Star-Schema-orange?style=for-the-badge)
+![Medallion Architecture](https://img.shields.io/badge/Medallion-Architecture-purple?style=for-the-badge)
+![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-success?style=for-the-badge)
+![Analytics](https://img.shields.io/badge/Reporting-%26%20Insights-795548?style=for-the-badge)
 
 # 📊 Data Warehouse and Analytics Project
 
